@@ -31,4 +31,17 @@ img {
 h5 {
     margin-top:0;
     margin-bottom:0;
+    text-align:center;
+}
+
+.health {
+    background-color: gray
+}
+
+.junk {
+    background-color: lightslategray
+}
+
+body {
+    background-color:lightgray
 }
