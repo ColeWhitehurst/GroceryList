@@ -1,0 +1,34 @@
+.healthy {
+    text-align: center;
+}
+
+#HF {
+    text-align: center;
+}
+
+.junk {
+    text-align: center;
+}
+
+#JF {
+    text-align: center;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+.list {
+    flex:1;
+
+}
+
+.flex {
+    display: flex;
+}
+
+h5 {
+    margin-top:0;
+    margin-bottom:0;
+}
